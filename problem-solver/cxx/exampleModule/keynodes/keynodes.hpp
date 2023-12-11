@@ -33,6 +33,15 @@ public:
 
   SC_PROPERTY(Keynode("empty_set"), ForceCreate)
   static ScAddr empty_set;
+  
+  SC_PROPERTY(Keynode("question_find_hords"),ForceCreate)
+  static ScAddr question_find_hords;
+  
+  SC_PROPERTY(Keynode("HordsClass"),ForceCreate)
+  static ScAddr HordsClass;
+  
+   SC_PROPERTY(Keynode("nrel_hords"),ForceCreate)
+  static ScAddr nrel_hords;
 };
 
 }  // namespace exampleModule

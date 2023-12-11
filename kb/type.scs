@@ -1,0 +1,46 @@
+nrel_type_of_building
+  =>nrel_main_idtf:[тип](* <- lang_ru;; *);;
+
+bridge
+=>nrel_main_idtf:[мост](* <- lang_ru;; *);
+->[мост];;
+
+gate
+=>nrel_main_idtf:[ворота](* <- lang_ru;; *);
+->[ворота];;
+
+office_building
+=>nrel_main_idtf:[офисное здание](* <- lang_ru;; *);
+->[офисное здание];;
+
+gardens
+=>nrel_main_idtf:[сады](* <- lang_ru;; *);
+->[сады];;
+
+cathedral
+=>nrel_main_idtf:[собор](* <- lang_ru;; *);
+->[собор];;
+
+palace_and_park_ensemble
+=>nrel_main_idtf:[дворцово-парковый ансамбль](* <- lang_ru;; *);
+->[дворцово_парковы ансамбль];;
+
+theater
+=>nrel_main_idtf:[театр](* <- lang_ru;; *);
+->[театр];;
+
+castle
+=>nrel_main_idtf:[замок](* <- lang_ru;; *);
+->[замок];;
+
+palace
+=>nrel_main_idtf:[дворец](* <- lang_ru;; *);
+->[дворец];;
+
+museum
+=>nrel_main_idtf:[музей](* <- lang_ru;; *);
+->[музей];;
+
+house
+=>nrel_main_idtf:[жилой дом](* <- lang_ru;; *);
+->[жилой дом];;

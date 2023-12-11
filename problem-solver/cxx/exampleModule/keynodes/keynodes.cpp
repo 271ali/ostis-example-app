@@ -13,5 +13,8 @@ ScAddr Keynodes::nrel_subdividing;
 ScAddr Keynodes::question_find_isomorphic_structures;
 ScAddr Keynodes::nrel_search_result;
 ScAddr Keynodes::empty_set;
+ScAddr Keynodes::question_find_hords;
+ScAddr Keynodes::HordsClass;
+ScAddr Keynodes::nrel_hords;
 
 }  // namespace exampleModule

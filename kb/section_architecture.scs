@@ -1,0 +1,151 @@
+section_architecture
+->Empire_State_Building;
+->La_Scala;
+->Bran_Castle;
+->Tuileries_Gardens;
+->Versal;
+->Brandenburg_Gate;
+->Tower_Bridge;
+->Burj_Khalifa;
+->Neuschwanstein_Castle;
+->Sydney_Opera_House;
+->Louvre;
+->Buckingham_Palace;
+->Hundertwasser_House;
+->Golden_Gate_Bridge;
+->St_Stephans_Cathedral;;
+
+Empire_State_Building
+    => nrel_main_idtf: [Empire_State_Building] (* <- lang_en;; *);
+    => nrel_type_of_building:office_building;
+    => nrel_country: USA;
+    => nrel_century: 20th_century;
+    => nrel_architectural_style:art_deco; 
+    <- concept_residential_buildings;
+    <-concept_architecture;;
+
+La_Scala
+    => nrel_main_idtf: [La_Scala] (* <- lang_en;; *);
+    => nrel_type_of_building:theater;
+    => nrel_country: Italy;
+    => nrel_century: 18th_century;
+    => nrel_architectural_style:neo_classicism; 
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+Bran_Castle
+    => nrel_main_idtf: [Bran_Castle] (* <- lang_en;; *);
+    => nrel_type_of_building:castle;
+    => nrel_country:Romania;
+    => nrel_century:13th_century;
+    => nrel_architectural_style:neo_gothic; 
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+Tuileries_Gardens
+    => nrel_main_idtf: [Tuileries_Gardens] (* <- lang_en;; *);
+    => nrel_type_of_building:gardens;
+    => nrel_country: France;
+    => nrel_century: 16th_century;
+    => nrel_architectural_style:italian_mannerism; 
+    <- concept_landscape_compositions;
+ <-concept_architecture;;
+
+Versal
+    => nrel_main_idtf: [Versal] (* <- lang_en;; *);
+    => nrel_type_of_building:palace_and_park_ensemble;
+    => nrel_country: France;
+    => nrel_century: 17th_century;
+    => nrel_architectural_style:baroque; 
+    <- concept_landscape_compositions;
+ <-concept_architecture;;
+
+Brandenburg_Gate
+    => nrel_main_idtf: [Brandenburg_Gate] (* <- lang_en;; *);
+    => nrel_type_of_building:gate;
+    => nrel_country: Germany;
+    => nrel_century: 18th_century;
+    => nrel_architectural_style:classicism; 
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+Tower_Bridge
+    => nrel_main_idtf: [Tower_Bridge] (* <- lang_en;; *);
+    => nrel_type_of_building:bridge;
+    => nrel_country: England;
+    => nrel_century: 19th_century;
+    => nrel_architectural_style:neo_gothic; 
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+Burj_Khalifa
+ => nrel_main_idtf: [Burj_Khalifa] (* <- lang_en;; *);
+    => nrel_type_of_building:office_building;
+    => nrel_country: UAE;
+    => nrel_century: 21th_century;
+    => nrel_architectural_style:modernism; 
+    <- concept_residential_buildings;
+ <-concept_architecture;;
+
+Neuschwanstein_Castle
+ => nrel_main_idtf: [Neuschwanstein_Castle] (* <- lang_en;; *);
+    => nrel_type_of_building:castle;
+    => nrel_country: Germany;
+    => nrel_century: 19th_century;
+    => nrel_architectural_style:neo_romanesque ;
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+Sydney_Opera_House
+ => nrel_main_idtf: [Sydney_Opera_House] (* <- lang_en;; *);
+    => nrel_type_of_building:theater;
+    => nrel_country: Australia;
+    => nrel_century: 20th_century;
+    => nrel_architectural_style:modernism;
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+Louvre
+ => nrel_main_idtf: [Louvre] (* <- lang_en;; *);
+    => nrel_type_of_building:theater;
+    => nrel_country: France;
+    => nrel_century: 18th_century;
+    => nrel_architectural_style:classicism;
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+Buckingham_Palace
+ => nrel_main_idtf: [Buckingham_Palace] (* <- lang_en;; *);
+    => nrel_type_of_building:palace;
+    => nrel_country: England;
+    => nrel_century: 18th_century;
+    => nrel_architectural_style:neo_classicism;
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+Hundertwasser_House
+ => nrel_main_idtf: [Hundertwasser_House] (* <- lang_en;; *);
+    => nrel_type_of_building:house;
+    => nrel_country:Austria;
+    => nrel_century:20th_century;
+    => nrel_architectural_style:expressionism;
+    <- concept_residential_buildings;
+ <-concept_architecture;;
+
+Golden_Gate_Bridge
+ => nrel_main_idtf: [Golden_Gate_Bridge] (* <- lang_en;; *);
+    => nrel_type_of_building:bridge;
+    => nrel_country:USA;
+    => nrel_century:20th_century;
+    => nrel_architectural_style:art_deco;
+    <- concept_volumetric_structures;
+ <-concept_architecture;;
+
+St_Stephans_Cathedral
+ => nrel_main_idtf: [St_Stephans _Cathedral] (* <- lang_en;; *);
+    => nrel_type_of_building:cathedral;
+    => nrel_country: Austria;
+    => nrel_century: 12th_century;
+    => nrel_architectural_style:gothic;
+    <- concept_volumetric_structures;
+ <-concept_architecture;;

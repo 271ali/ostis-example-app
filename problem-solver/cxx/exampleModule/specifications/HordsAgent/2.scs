@@ -1,0 +1,31 @@
+lib_component_ui_menu_hords_agent=[*
+ui_menu_hords_agent<-ui_user_command_class_atom;ui_user_comand_class_view_kb;
+ui_one_argument_command_class;;
+
+ui_menu_hords_agent
+=>nrel_main_idtf:
+[Есть ли хорды?]
+(*<-lang_ru;;*);
+=>nrel_idtf:
+[Есть ли хорды в данном неориентированном графе?]
+(*<-lang_ru;;*);;
+
+ui_menu_hords_agent
+=>nrel_main_idtf:
+[?]
+(*<-lang_en;;*);
+=>nrel_idtf:
+[Request?]
+(*<-lang_en;;*);;
+
+ui_menu_hords_agent=>ui_nrel_command_template:
+[*
+    question_find_hords ->._question_find_hords_instance
+    (*
+       _->ui_arg_1;;
+    *);;
+    ._question_find_hords_instance_<-question;;
+*];;
+ui_menu_hords_agent=>ui_nrel_command_lang_template:[А может это ты $ui_arg_1?](*<-lang_ru;;*);;
+ui_menu_hords_agent=>ui_nrel_command_lang_template:[$ui_arg_1?](*<-lang_en;;*);;
+*];;

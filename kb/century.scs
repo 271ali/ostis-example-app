@@ -1,0 +1,42 @@
+nrel_century
+=>nrel_main_idtf:[век](* <- lang_ru;; *);;
+
+12th_century
+=>nrel_main_idtf:[12-й век](* <- lang_ru;; *);
+->[12-й век];;
+
+13th_century
+=>nrel_main_idtf:[13-й век](* <- lang_ru;; *);
+->[13-й век];;
+
+14th_century
+=>nrel_main_idtf:[14-й век](* <- lang_ru;; *);
+->[14-й век];;
+
+15th_century
+=>nrel_main_idtf:[15-й век](* <- lang_ru;; *);
+->[15-й век];;
+
+16th_century
+=>nrel_main_idtf:[16-й век](* <- lang_ru;; *);
+->[16-й век];;
+
+17th_century
+=>nrel_main_idtf:[17-й век](* <- lang_ru;; *);
+->[17-й век];;
+
+18th_century
+=>nrel_main_idtf:[18-й век](* <- lang_ru;; *);
+->[18-й век];;
+
+19th_century
+=>nrel_main_idtf:[19-й век](* <- lang_ru;; *);
+->[19-й век];;
+
+20th_century
+=>nrel_main_idtf:[20-й век](* <- lang_ru;; *);
+->[20-й век];;
+
+21th_century
+=>nrel_main_idtf:[21-й век](* <- lang_ru;; *);
+->[21-й век];;

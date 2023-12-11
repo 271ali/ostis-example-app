@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GWF version="2.0">
+    <staticSector>
+        <node type="node/const/general_node" idtf="1" shapeColor="0" id="163354760" parent="163414056" left="0" top="0" right="17" bottom="28" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="229.449" y="361.275" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="2" shapeColor="0" id="163353696" parent="163414056" left="0" top="0" right="17" bottom="28" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="411.449" y="291.275" haveBus="false" idtf_pos="2">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="3" shapeColor="0" id="163352936" parent="163414056" left="0" top="0" right="17" bottom="28" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="487.449" y="466.275" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <node type="node/const/general_node" idtf="4" shapeColor="0" id="163355672" parent="163414056" left="0" top="0" right="17" bottom="28" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10" x="309.449" y="531.275" haveBus="false" idtf_pos="0">
+            <content type="0" mime_type="" content_visibility="false" file_name=""/>
+        </node>
+        <pair type="pair/const/synonym" idtf="" shapeColor="0" id="162353776" parent="163414056" id_b="163354760" id_e="163352936" b_x="229.449" b_y="361.275" e_x="487.449" e_y="466.275" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <arc type="arc/const/pos" idtf="" shapeColor="0" id="162351928" parent="163414056" id_b="163352936" id_e="163355672" b_x="487.449" b_y="466.275" e_x="309.449" e_y="531.275" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </arc>
+        <pair type="pair/const/synonym" idtf="" shapeColor="0" id="162351088" parent="163414056" id_b="163355672" id_e="163354760" b_x="309.449" b_y="531.275" e_x="229.449" e_y="361.275" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/synonym" idtf="" shapeColor="0" id="162351760" parent="163414056" id_b="163354760" id_e="163353696" b_x="229.449" b_y="361.275" e_x="411.449" e_y="291.275" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <pair type="pair/const/synonym" idtf="" shapeColor="0" id="162354448" parent="163414056" id_b="163352936" id_e="163353696" b_x="487.449" b_y="466.275" e_x="411.449" e_y="291.275" dotBBalance="0" dotEBalance="0">
+            <points/>
+        </pair>
+        <contour type="" idtf="testGraph2" shapeColor="0" id="163414056" parent="0" left="0" top="0" right="93" bottom="28" textColor="164" text_angle="0" text_font="Times New Roman [Arial]" font_size="10">
+            <points>
+                <point x="102.449" y="215.275"/>
+                <point x="637.449" y="209.275"/>
+                <point x="637.449" y="611.275"/>
+                <point x="101.449" y="611.275"/>
+            </points>
+        </contour>
+    </staticSector>
+</GWF>

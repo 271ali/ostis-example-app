@@ -1,0 +1,7 @@
+lib_component_ui_menu_hords_agent
+=>nrel_main_idtf:
+[Нахождение хорд в неориентированном графе](*<-lang_ru;;*);
+[Hords finding in unoriented graph](*<-lang_en;;*);
+
+<-library_of_platform_independent_reusable_components;
+<-library_of_atomic_reusable_components;;

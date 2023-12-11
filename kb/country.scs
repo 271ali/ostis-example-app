@@ -1,0 +1,43 @@
+nrel_country
+=>nrel_main_idtf:[страна](* <- lang_ru;; *);;
+
+France
+=>nrel_main_idtf:[Франция](* <- lang_ru;; *);
+->[Франция];;
+
+Italy
+=>nrel_main_idtf:[Италия](* <- lang_ru;; *);
+->[Италия];;
+
+Romania
+=>nrel_main_idtf:[Румыния](* <- lang_ru;; *);
+->[Румыния];;
+
+Spain
+=>nrel_main_idtf:[Испания](* <- lang_ru;; *);
+->[Испания];;
+
+USA
+=>nrel_main_idtf:[США](* <- lang_ru;; *);
+->[США];;
+
+UAE
+=>nrel_main_idtf:[ОАЭ](* <- lang_ru;; *);
+->[ОАЭ];;
+
+Australia
+=>nrel_main_idtf:[Австралия](* <- lang_ru;; *);
+->[Австралия];;
+
+Germany
+=>nrel_main_idtf:[Германия](* <- lang_ru;; *);
+->[Германия];;
+
+Austria
+=>nrel_main_idtf:[Австрия](* <- lang_ru;; *);
+->[Австрия];;
+
+England
+=>nrel_main_idtf:[Англия](* <- lang_ru;; *);
+->[Англия];;
+

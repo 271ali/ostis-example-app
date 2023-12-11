@@ -1,0 +1,46 @@
+nrel_architectural_style
+  =>nrel_main_idtf:[архитектурный стиль](* <- lang_ru;; *);;
+
+modernism
+=>nrel_main_idtf:[модернизм](* <- lang_ru;; *);
+->[модернизм];;
+
+art_deco
+=>nrel_main_idtf:[арт-деко](* <- lang_ru;; *);
+->[арт-деко];;
+
+neo_gothic
+=>nrel_main_idtf:[нео-готика](* <- lang_ru;; *);
+->[нео-готика];;
+
+gothic
+=>nrel_main_idtf:[готика](* <- lang_ru;; *);
+->[готика];;
+
+neo_romanesque
+=>nrel_main_idtf:[нео-романский](* <- lang_ru;; *);
+->[нео-романский];;
+
+romanesque
+=>nrel_main_idtf:[романский](* <- lang_ru;; *);
+->[романский];;
+
+neo_classicism
+=>nrel_main_idtf:[нео-классицизм](* <- lang_ru;; *);
+->[нео-романский];;
+
+classicism
+=>nrel_main_idtf:[классицизм](* <- lang_ru;; *);
+->[классицизм];;
+
+baroque
+=>nrel_main_idtf:[барокко](* <- lang_ru;; *);
+->[барокко];;
+
+italian_mannerism
+=>nrel_main_idtf:[итальянский маньеризм](* <- lang_ru;; *);
+->[итальянский маньеризм];;
+
+expressionism
+=>nrel_main_idtf:[экспрессионизм ](* <- lang_ru;; *);
+->[ экспрессионизм];;
